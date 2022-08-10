@@ -1,6 +1,6 @@
 # Equation of Lake Burley Griffin
 
-The probability $P$ of Canberra suburb $i$ being on the northside is defined as:
+The probability of Canberra suburb $i$ being on the northside is defined as:
 
 $$ P_i = \left( {1 + exp \left[ {\beta_0 + \sum_{j=1}^k \beta_j X_{ij} + \sum_{j=1}^k \gamma_j X_{ij}^2} \right]} \right)^{-1} $$
 
