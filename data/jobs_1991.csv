@@ -1,0 +1,62 @@
+occupation,category,males,females,people,per cent
+managers & administrators nfd,managers & administrators,"76,872","29,127","105,999",0.018362125
+legislators & government appointed officials,managers & administrators,"1,990",404,"2,394",0.000414711
+general managers,managers & administrators,"49,753","8,250","58,003",0.010047815
+specialist managers,managers & administrators,"188,731","64,096","252,827",0.043797026
+fanners & farm managers,managers & administrators,"146,855","65,634","212,489",0.036809305
+managing supervisors sales/service,managers & administrators,"102,101","62,970","165,071",0.028595122
+managing supervisors other businesses,managers & administrators,"55,975",9.025,"55,984",0.009698069
+professionals nfd,professionals,"9,681","7,899","17,580",0.00304537
+natural scientists,professionals,"20,790","8,483","29,273",0.005070939
+building professionals,professionals,"78,199","3,812","82,011",0.014206702
+health diagnosis & treatment practitioners,professionals,"49,662","37,715","87,377",0.01513625
+school teachers,professionals,"69,325","152,288","221,613",0.038389849
+other teachers & instructors,professionals,"42,853","41,205","84,058",0.014561302
+social professionals,professionals,"36,070","20,154","56,224",0.00973964
+business professionals,professionals,"136,647","70,210","206,857",0.035833678
+artists & related professionals,professionals,"34,682","22,760","57,442",0.009950633
+miscellaneous professionals,professionals,"18,914","29,365","48,279",0.008363334
+para-professionals nfd,para-professionals,"10,815","1,881","12,696",0.002199318
+medical & science tech. officers & technicians,para-professionals,"14,635","16,348","30,983",0.005367161
+engineering & building associates & technicians,para-professionals,"75,762","6,248","82,010",0.014206529
+air & sea transport technical workers,para-professionals,"14,984",655,"15,639",0.002709132
+registered nurses,para-professionals,"10,739","128,646","139,385",0.024145556
+police,para-professionals,31.85,4.937,37,6.37258E-06
+miscellaneous para-professionals,para-professionals,"102,208",61.082,"102,269",0.017715994
+tradespersons nfd,tradespersons,"13,639",530,"14,169",0.002454485
+metal fitting & machining tradespersons,tradespersons,"94,850","1,050","95,900",0.016612683
+other metal tradespersons,tradespersons,"82,425","1,665","84,090",0.014566846
+electrical & electronic tradespersons,tradespersons,"135,314","2,894","138,208",0.023941665
+building tradespersons,tradespersons,"193,851","3,440","197,291",0.034176568
+printing tradespersons,tradespersons,"26,097","6,108","32,205",0.005578847
+vehicle tradespersons,tradespersons,"115,349",1.329,"115,350",0.019982048
+food tradespersons,tradespersons,"71,035","31,586","102,621",0.017776957
+amenity horticultural tradespersons,tradespersons,"38,871","5,613","44,484",0.007705929
+miscellaneous tradespersons,tradespersons,"78,411","52,655","131,066",0.022704462
+marine construction tradespersons,tradespersons,"2,824",39,"2,863",0.000495955
+clerks nfd,clerks,"47,854","110,616","158,470",0.027451636
+stenographers & typists,clerks,"4,369","224,123","228,492",0.039581493
+data processing & business machine operators,clerks,"16,632","55,791","72,423",0.01254578
+numerical clerks,clerks,"65,183","190,892","256,075",0.044359675
+"filing, sorting & copying clerks",clerks,12.758,23.566,36,6.29238E-06
+material recording & despatch clerks,clerks,"53,761","24,527","78,288",0.01356177
+"receptionists, telephonists & messengers",clerks,"18,435","144,177","162,612",0.028169151
+miscellaneous clerks,clerks,23.786,"52,098","52,122",0.009029017
+salespersons & personal service workers nfd,salespersons & personal service workers,"12,615","7,839","20,454",0.003543231
+"investment, insurance & real estate salespersons",salespersons & personal service workers,"52,402","18,832","71,234",0.012339811
+sales representatives,salespersons & personal service workers,81.697,"26,465","26,547",0.004598664
+sales assistants,salespersons & personal service workers,122.555,"248,891","249,014",0.043136426
+"tellers, cashiers & ticket salespersons",salespersons & personal service workers,"23,849",103.143,"23,952",0.004149211
+miscellaneous salespersons,salespersons & personal service workers,"53,099","94,281","147,380",0.025530524
+personal service workers,salespersons & personal service workers,"15,194",123.329,"15,317",0.002653409
+plant & machine operators& drivers nfd,plant & machine operators & drivers,"12,131",908,"13,039",0.002258736
+road & rail transport drivers,plant & machine operators & drivers,"197,991","14,153","212,144",0.036749541
+mobile plant operators (except transport ),plant & machine operators & drivers,"74,862","1,305","76,167",0.013194351
+stationary plant operators,plant & machine operators & drivers,"46,674","1,036","47,710",0.008264766
+machine operators,plant & machine operators & drivers,"92,773",59.418,"92,832",0.016081288
+labourers & related workers nfd,labourers & related workers,"46,371","16,387","62,758",0.01087152
+trades assistants & factory hands,labourers & related workers,102.919,61.606,165,2.85005E-05
+agricultural labourers & related workers,labourers & related workers,"56,726","19,452","76,178",0.013196256
+cleaners,labourers & related workers,"61,530","109,930","171,460",0.029701883
+construction & mining labourers,labourers & related workers,73.638,1458,"1,532",0.000265324
+miscellaneous labourers & related workers,labourers & related workers,200.444,"129,986","130,186",0.022552097
