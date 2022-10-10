@@ -1,0 +1,52 @@
+occupation,category,males,females,persons,per cent
+specialist managers,managers,443426,238530,681949,0.0638298509611276
+sales assistants and salespersons,sales workers,241857,425829,667682,0.0624944717998378
+"business, human resource and marketing professionals",professionals,287297,288052,575350,0.0538522745109748
+health professionals,professionals,127857,368579,496438,0.046466177898113
+education professionals,professionals,141211,350542,491759,0.0460282274463239
+carers and aides,community & personal service workers,62820,409916,472738,0.0442478778965312
+"hospitality, retail and service managers",managers,221195,195571,416767,0.0390090395257069
+numerical clerks,clerical & administrative workers,64552,245155,309707,0.0289883138645528
+"design, engineering, science and transport professionals",professionals,212235,96603,308838,0.0289069761978282
+construction trades workers,technicians & trades workers,304246,4562,308806,0.0289039810248303
+automotive and engineering trades workers,technicians & trades workers,290195,4414,294607,0.027574966606161
+road and rail drivers,machinery operators & drivers,269903,18244,288142,0.0269698480614258
+general clerical workers,clerical & administrative workers,41239,226852,268088,0.025092810583294
+cleaners and laundry workers,labourers,102761,150318,253082,0.0236882616455836
+hospitality workers,community & personal service workers,78381,169588,247971,0.0232098763583227
+office managers and program administrators,clerical & administrative workers,64960,181759,246720,0.0230927838139354
+inquiry clerks and receptionists,clerical & administrative workers,34277,207519,241803,0.0226325567629743
+"engineering, ict and science technicians",technicians & trades workers,155687,54025,209719,0.0196295214359384
+other clerical and administrative workers,clerical & administrative workers,96279,110495,206772,0.0193536847226615
+ict professionals,professionals,160207,36510,196718,0.0184126388063786
+electrotechnology and telecommunications trades workers,technicians & trades workers,184192,4103,188297,0.0176244403121457
+"legal, social and welfare professionals",professionals,68804,115322,184129,0.0172343190291671
+sales representatives and agents,sales workers,102941,77090,180030,0.0168506560879652
+other labourers,labourers,139022,40397,179413,0.0167929054085992
+factory process workers,labourers,113382,62521,175903,0.0164643723703902
+sports and personal service workers,community & personal service workers,59826,105067,164889,0.0154334712641699
+food trades workers,technicians & trades workers,111761,51687,163448,0.0152985948801074
+other technicians and trades workers,technicians & trades workers,86807,74730,161526,0.0151186973019201
+machine and stationary plant operators,machinery operators & drivers,133998,22149,156148,0.0146153210399578
+sales support workers,sales workers,40247,110530,150781,0.0141129743687135
+food preparation assistants,labourers,76689,73461,150150,0.0140539133011608
+protective service workers,community & personal service workers,113661,28196,141857,0.0132776954989195
+farmers and farm managers,managers,101643,39776,141419,0.0132366990685106
+construction and mining labourers,labourers,133619,2932,136555,0.0127814327728273
+health and welfare support workers,community & personal service workers,33293,95548,128842,0.0120595024811732
+"chief executives, general managers and legislators",managers,84556,28727,113275,0.0106024444168431
+storepersons,machinery operators & drivers,86005,22207,108209,0.0101282710916105
+mobile plant operators,machinery operators & drivers,101663,4125,105783,0.00990119953870592
+skilled animal and horticultural workers,technicians & trades workers,71533,31397,102929,0.00963406754695425
+personal assistants and secretaries,clerical & administrative workers,2670,93153,95827,0.00896932633972918
+"farm, forestry and garden workers",labourers,69351,23952,93308,0.00873355006529945
+arts and media professionals,professionals,41549,38031,79588,0.0074493696424428
+clerical and office support workers,clerical & administrative workers,44748,32846,77602,0.00726348171825961
+professionals nfd,professionals,18464,19695,38159,0.00357165020085911
+managers nfd,managers,24878,11756,36635,0.00342900508683334
+labourers nfd,labourers,20323,2786,23115,0.00216354449521367
+technicians & trades workers nfd,technicians & trades workers,16917,1148,18065,0.00169086875647999
+machinery operators & drivers nfd,machinery operators & drivers,10962,858,11815,0.00110587403032444
+clerical & administrative workers nfd,clerical & administrative workers,1078,2100,3172,0.000296896523418462
+sales workers nfd,sales workers,1206,1261,2462,0.000230441122527192
+community & personal service workers nfd,community & personal service workers,195,520,713,6.67E-05
