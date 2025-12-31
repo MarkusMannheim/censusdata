@@ -7,8 +7,8 @@ $$ P_i = \left( {1 + exp \left[ {\beta_0 + \sum_{j=1}^5 \beta_j X_{ij} + \sum_{j
 where:
 
 - $\beta_0 \approx -151.1$
-- $\beta_j \approx \left[ -10.0, -496.5, -490.8, 510.3, 402.7 \right]$
-- $\gamma_j \approx \left[ 289.7, 663.0, 494.1, -213.6, -490.8 \right]$
+- $\beta_j \approx \left[-10.0, -496.5, -490.8, 510.3, 402.7 \right]$
+- $\gamma_j \approx \left[289.7, 663.0, 494.1, -213.6, -490.8 \right]$
 - $X_i$ is a set of relative, weighted proportions $\left( 0 \rightarrow 1 \right)$ of residents in suburb $i$ such that:
     - $X_{i1}$ = residents born in Vietnam
     - $X_{i2}$ = residents who are secular
